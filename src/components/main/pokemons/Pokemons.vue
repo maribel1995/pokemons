@@ -44,6 +44,6 @@ export default {
 .list--pokemons {
   display: flex;
   flex-wrap: wrap;
-  /* justify-content: space-around; */
+
 }
 </style>
