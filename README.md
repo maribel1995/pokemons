@@ -1,6 +1,6 @@
 # pokedex
 
-## Demo live
+## Demo
 
 https://pokemonfilter.netlify.com/
 
