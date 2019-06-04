@@ -34,7 +34,7 @@ export default {
     buildRegex(str) {
       const arr = str.split("");
       const exp = arr.map((x, i) => `(.*?)${arr[i]}`).join("");
-      return new RegExp(exp, "gi");
+      return new RegExp(exp, "i");
     }
   }
 };
@@ -44,6 +44,5 @@ export default {
 .list--pokemons {
   display: flex;
   flex-wrap: wrap;
-
 }
 </style>
