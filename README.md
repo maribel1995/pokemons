@@ -1,4 +1,4 @@
-# pokedex
+# pokemons
 
 ## Demo
 
